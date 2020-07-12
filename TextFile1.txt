@@ -1,0 +1,69 @@
+﻿Sentence,NegPos
+futbol kaçak bahis.,Siber
+yasadışı bahis oynatılıyor.,Siber
+bahis kumar sitesi.,Siber
+çevrimiçi yasadışı bahis.,Siber
+bu ıbanlar bahis oynatıyor.,Siber
+el altından kaçak bahis.,Siber
+kahvede kaçak bahis.,Siber
+kaçak bahise özendirme.,Siber
+yasadışı bahis reklamı.,Siber
+yasadışı bahis videosu.,Siber
+futbol kaçak bahis.,Siber
+kupon satıyorum dedi dolandırdı.,Siber
+bitcoin dolandırıcılığı.,Siber
+atm kart kopyalama.,Siber
+kart kopyalama.,Siber
+sosyal medya hesaplarım çalındı.,Siber
+bu numaradan yasadışı bahis teklifi alıyorum.,Asayiş
+kaçak iddaa.,Siber
+yasadışı bahis sitelerindeki ıbanlar.,Siber
+adreste uyuşturucu var.,Narkotik
+Mal alıp .,Narkotik
+mal ticareti.,Narkotik
+uyuşturucu.,Narkotik
+bonzai.,Narkotik
+eroin.,Narkotik
+metanfetamin ticareti.,Narkotik
+uyuşturucu satışı ve imalatı.,Narkotik
+bu adreste uyuşturucu satılıyor ve ticareti yapılıyor dünyanın parası dönüyor.,Narkotik
+Cinayet.,Asayiş
+adam öldürülüyor.,Asayiş
+adamı bıçakladılar.,Asayiş
+Kadın ticareti.,Asayiş
+fuhuş.,Asayiş
+eskort siteleri.,Asayiş
+eskort sitesi.,Asayiş
+eskort.,Asayiş
+eskort pazarlığı.,Asayiş
+hırsızlık.,Asayiş
+hırsız.,Asayiş
+karı satıyolar.,Asayiş
+eskortlar aşağıda.,Asayiş
+al katta hırsızlık oluyor.,Asayiş
+altınlarım çalındı.,Asayiş
+param çalındı.,Asayiş
+hırsız grubu.,Asayiş
+alt dairede eskort var.,Asayiş
+bu numaradan eskort teklifi alıyorum.,Asayiş
+Terörist.,Terörle Mücadele
+binada teröristler var.,Terörle Mücadele
+terör propagandası.,Terörle Mücadele
+pkk sempatizanı.,Terörle Mücadele
+terörist sitesi.,Terörle Mücadele
+terör sempatizanı.,Terörle Mücadele
+dhkpc sempatizanı.,Terörle Mücadele
+Fetöcüler evdeler.,Terörle Mücadele
+terör semtatizanı hesaplar.,Terörle Mücadele
+fetö sempatizanı.,Terörle Mücadele
+fetö toplanması.,Terörle Mücadele
+pkklılar tehdit ediyor.,Terörle Mücadele
+bu numaradan pkklılar mesaj atıyor.,Terörle Mücadele
+Teröristlere ait ıban numaraları.,Terörle Mücadele
+silah kaçakçılığı.,Organize ve kaçakçılık
+silah ticareti.,Organize ve kaçakçılık
+tarihi eser kaçakçılığı.,Organize ve kaçakçılık
+tarihi eserleri .,Organize ve kaçakçılık
+silah alıp satarlar.,Organize ve kaçakçılık
+kaçak malları ülkeye sokuyolar.,Organize ve kaçakçılık
+kaçak kazı.,Organize ve kaçakçılık

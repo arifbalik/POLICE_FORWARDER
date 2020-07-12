@@ -1,0 +1,10 @@
+C:\Users\Hal 9000\source\repos\POLICE_FORWARDER\bin\Debug\POLICE_FORWARDER.exe.config
+C:\Users\Hal 9000\source\repos\POLICE_FORWARDER\bin\Debug\POLICE_FORWARDER.exe
+C:\Users\Hal 9000\source\repos\POLICE_FORWARDER\bin\Debug\POLICE_FORWARDER.pdb
+C:\Users\Hal 9000\source\repos\POLICE_FORWARDER\obj\Debug\POLICE_FORWARDER.csprojAssemblyReference.cache
+C:\Users\Hal 9000\source\repos\POLICE_FORWARDER\obj\Debug\POLICE_FORWARDER.Forwarder.resources
+C:\Users\Hal 9000\source\repos\POLICE_FORWARDER\obj\Debug\POLICE_FORWARDER.Properties.Resources.resources
+C:\Users\Hal 9000\source\repos\POLICE_FORWARDER\obj\Debug\POLICE_FORWARDER.csproj.GenerateResource.cache
+C:\Users\Hal 9000\source\repos\POLICE_FORWARDER\obj\Debug\POLICE_FORWARDER.csproj.CoreCompileInputs.cache
+C:\Users\Hal 9000\source\repos\POLICE_FORWARDER\obj\Debug\POLICE_FORWARDER.exe
+C:\Users\Hal 9000\source\repos\POLICE_FORWARDER\obj\Debug\POLICE_FORWARDER.pdb
